@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hpricot
 Version  : 0.8.6
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/hpricot-0.8.6.gem
 Source0  : https://rubygems.org/downloads/hpricot-0.8.6.gem
 Summary  : No detailed summary available
